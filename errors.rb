@@ -1,0 +1,3 @@
+class MedTypeError < StandardError
+
+end
